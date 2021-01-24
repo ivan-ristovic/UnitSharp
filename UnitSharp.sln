@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UnitSharp", "UnitSharp\UnitSharp.fsproj", "{69CC3293-CD0B-4161-8801-F2B8394B2475}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UnitSharp.Tests", "UnitSharp.Tests\UnitSharp.Tests.fsproj", "{FE73A8DA-FB96-460D-B2DB-D32DFD42A19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CC3293-CD0B-4161-8801-F2B8394B2475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CC3293-CD0B-4161-8801-F2B8394B2475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CC3293-CD0B-4161-8801-F2B8394B2475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CC3293-CD0B-4161-8801-F2B8394B2475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE73A8DA-FB96-460D-B2DB-D32DFD42A19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE73A8DA-FB96-460D-B2DB-D32DFD42A19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE73A8DA-FB96-460D-B2DB-D32DFD42A19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE73A8DA-FB96-460D-B2DB-D32DFD42A19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F9B7381-123E-4121-8E88-348FDE1E3C27}
+	EndGlobalSection
+EndGlobal
