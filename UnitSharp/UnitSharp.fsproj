@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Modifiers.fs" />
     <Compile Include="Units.fs" />
     <Compile Include="Converters.fs" />
-    <Compile Include="Modifiers.fs" />
     <Compile Include="UnitSharp.fs" />
   </ItemGroup>
 

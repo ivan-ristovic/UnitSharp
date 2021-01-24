@@ -1,4 +1,6 @@
-﻿module Converters
+﻿namespace UnitSharp
+
+module Converters =
 
     type IConverter<'T when 'T :> Units.IUnit> =
         abstract Si : 'T
